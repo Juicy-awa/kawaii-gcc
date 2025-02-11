@@ -86,11 +86,11 @@ msgstr "需要%<#pragma omp section%>或%<}%>，请添加上它并对它道歉�
 
 msgid ""
 "%s %<%s%.*s%> expects argument of type %<%s%s%>, but argument %d has type %qT"
-msgstr "%s %<%s%.*s%> 需要参数类型%<%s%s%>，但第 %d 个实参的类型却是%qT，长点心吧喂！！！"
+msgstr "格式%q.*s需要类型%<%s%s%>，但实参 %d 的类型却是%qT，长点心吧喂！！！"
 
 msgid ""
 "%s %<%s%.*s%> expects argument of type %<%T%s%>, but argument %d has type %qT"
-msgstr "%s %<%s%.*s%> 需要参数类型%<%T%s%>，但第 %d 个实参的类型却是%qT，长点心吧喂！！！"
+msgstr "格式%q.*s需要类型%<%s%s%>，但实参 %d 的类型却是%qT，长点心吧喂！！！"
 
 msgid ""
 "call to %qE is ambiguous; argument %d has type %qs but argument %d has type "
@@ -113,7 +113,7 @@ msgid "expected %<{%> or %<:%>"
 msgstr "需要%<{%>或%<:%>，请添加上它并对它道歉！"
 
 msgid "expected %<{%> at %C"
-msgstr "需要%<{%>，请添加上它并对它道歉"
+msgstr "需要%<{%>，请添加上它并对它道歉！"
 
 msgid ""
 "\n"
@@ -229,7 +229,7 @@ msgid "number must be 0 or 1"
 msgstr "数字必须是 0 或 1（屏幕前的你必须是0，逃...）"
 
 msgid "object is not a method"
-msgstr "对象不是一个方法（这都不会，还想找对象？杂鱼～）"
+msgstr "对象不是一个方法（这都不会，还想找对象？杂鱼♥～）"
 
 
 msgid "optional argument"
@@ -680,7 +680,7 @@ msgid "division by zero"
 msgstr "你的除数也是零吗？"
 
 msgid "warning: "
-msgstr "杂鱼～"
+msgstr "杂鱼♥～"
 
 msgid "storage size of %q+D isn%'t known"
 msgstr "%q+D的存储大小未知,咱可并不喜欢你这种神秘感～"
@@ -1258,17 +1258,17 @@ msgstr "-install_name 只能和 -dynamiclib 一起使用喵！"
 msgid "-bundle not allowed with -dynamiclib"
 msgstr "-bundle 不……不能与 -dynamiclib 在一起喵！"
 
-msgid "%s: all warnings being treated as errors" 
- msgstr "%s：如你所愿，所有的警告都被当作是错误喵！" 
-  
- msgid "%s: some warnings being treated as errors" 
- msgstr "%s：如你所愿，有些警告被当作是错误喵！" 
-  
- msgid "%qE requires a %<declare%> directive for use in a %<routine%> function" 
- msgstr "%qE未声明(第一次使用居然不声明？杂鱼～）" 
-  
- msgid "Convert function return to call and return thunk." 
- msgstr "函数是不能返回它自身的呢" 
-  
- msgid "invalid memory model %wi for %qD" 
- msgstr "%2$qE的第 %1$d 个实参类型不能被强行兼容喵！会坏掉的喵！"
+msgid "%s: all warnings being treated as errors"
+msgstr "%s：如你所愿，所有的警告都被当作是错误喵！"
+
+msgid "%s: some warnings being treated as errors"
+msgstr "%s：如你所愿，有些警告被当作是错误喵！"
+
+msgid "%qE requires a %<declare%> directive for use in a %<routine%> function"
+msgstr "%qE未声明(第一次使用居然不声明？杂鱼♥～）"
+
+msgid "Convert function return to call and return thunk."
+msgstr "函数是不能返回它自身的呢"
+
+msgid "invalid memory model %wi for %qD"
+msgstr "%2$qE的第 %1$d 个实参类型不能被强行兼容喵！会坏掉的喵！"
